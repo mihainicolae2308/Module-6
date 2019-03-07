@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Module 6</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="on_create">On Create</string>
+    <string name="on_start">On Start</string>
+    <string name="on_resume">On Resume</string>
+    <string name="on_pause">On Pause</string>
+    <string name="on_stop">On Stop</string>
+    <string name="on_restart">On Restart</string>
+    <string name="on_destroy">On Destroy</string>
+    <string name="on_create_view">On Create View</string>
+    <string name="on_attach">On Attach</string>
+    <string name="on_activity_created">On Activity Created</string>
+    <string name="on_destroy_view">On Destroy View</string>
+    <string name="on_detach">On Detach</string>
+    <string name="message_received">Message received</string>
+    <string name="message">Message</string>
+    <string name="send">SEND</string>
+    <string name="reply_received">Reply received</string>
+</resources>
