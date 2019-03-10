@@ -9,16 +9,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".chatactivity.SecondActivity"></activity>
-        <activity android:name=".chatactivity.FirstActivity" >
+        <activity
+            android:name=".navigationdraweroptions.NavigationDrawerActivity"
+            android:label="@string/title_activity_navigation_drawer"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".fragmentmethods.FragmentActivity"/>
+        <activity android:name=".chatactivity.SecondActivity" />
+        <activity android:name=".chatactivity.FirstActivity">
 
+        </activity>
+        <activity android:name=".fragmentmethods.FragmentActivity" />
     </application>
 
 </manifest>
