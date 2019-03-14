@@ -32,4 +32,13 @@
     <string name="share_fragment">Share fragment</string>
     <string name="slideshow_fragment">Slideshow fragment</string>
     <string name="tools_fragment">Tools fragment</string>
+    <string name="fav_movie">Favourite Movie</string>
+    <string name="fav_pet">Favourite Pet</string>
+    <string name="fav_food">Favourite Food</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Favourite Movie</string>
+    <string name="tab_text_2">Favourite Pet</string>
+    <string name="tab_text_3">Favourite Food</string>
 </resources>
